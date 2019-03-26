@@ -11,4 +11,4 @@ The goal of this creation was to familiarize myself with Python and Pygame as we
 
 ### Implementation
 
-The program generates a random grid upon initialization and calculates the number of neighbors around each cell. According to the rules of conway, each cell is then determined whether to repopulate or die depending on it's neighbors. Upon completion, each cell is deemed to be static or oscillating as all cells reach it's completion.
+The program generates a random grid upon initialization and calculates the number of neighbors around each cell. According to the rules of conway, each cell is then determined whether to repopulate or die depending on it's neighbors. Upon completion, each cell is deemed to be static or oscillating as all cells reach its completion.
